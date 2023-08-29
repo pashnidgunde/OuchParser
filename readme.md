@@ -1,4 +1,4 @@
-# A simple outch parser
+# A simple ouch parser
 
 ## How to build
 ```
